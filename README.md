@@ -5,5 +5,13 @@
 
 3.Array problems
 
+4.Class and Objects
+
+5.Encapusulation
+
+6.Overriding
+
+7.Inheritance
+
 
 
